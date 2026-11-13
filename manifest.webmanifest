@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Billie’s Bierlijst",
+  "short_name": "Billie’s",
+  "description": "Jouw favorieten en proeflijst voor het bierfestival.",
+  "lang": "nl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ee",
+  "theme_color": "#203e35",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
